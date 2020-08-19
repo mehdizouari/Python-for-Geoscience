@@ -1,5 +1,7 @@
 # Python-for-Geoscience
-Python Programming for Machine Learning and Deep Learning in Geoscience
+Python Programming for Machine Learning and Deep Learning in Geoscience  
+  
+  
 Day 1: Python basics  
 Jupyter Notebook / Google Colab  
 Markdown | Latex  
